@@ -6,11 +6,9 @@
 
 clona el repositorio y ejecuta desde su raiz 
 
-git clone 
+git clone https://github.com/captainmetaverse/dockerjenkins.git
 
-despues crea fuera del directorio ....
-el archivo docker-compose.yml
-con el siguiente contenido
+después crea fuera del directorio dockerjenkins, el archivo docker-compose.yml con el siguiente contenido
 ```
 version: '3'
 services:
