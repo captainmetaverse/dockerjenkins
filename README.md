@@ -11,7 +11,7 @@ git clone
 despues crea fuera del directorio ....
 el archivo docker-compose.yml
 con el siguiente contenido
-
+```
 version: '3'
 services:
   jenkins:
@@ -29,7 +29,7 @@ services:
       - net
 networks:
   net:
-
+```
 ### Construye las imagenes de los servicios definidos en docker-compose.yml
 docker-compose build
 
