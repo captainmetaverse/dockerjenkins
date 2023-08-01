@@ -4,7 +4,7 @@
 
 ## Pasos a seguir:
 
-1. En Ubuntu crea un directorio jenkins dentro de el directorio /home/<usuario>
+1. En Ubuntu crea un directorio jenkins dentro de el directorio /home/usuario
 2. Dentro del directorio jenkins crea el directorio jenkins_home
 3. Clona el repositorio dentro del directorio jenkins 
 
