@@ -47,6 +47,6 @@ docker exec -it --user root jenkins bash
 
 chown jenkins /var/run/docker.sock
 
-Ahora dentro del contenedor se pueden ejecutar comandos de docker, por ejmplo:  docker ps
+Ahora dentro del contenedor se pueden ejecutar comandos de docker, por ejemplo:  docker ps
 
 
